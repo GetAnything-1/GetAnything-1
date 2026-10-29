@@ -6,15 +6,15 @@ All of these run on the [Apify](https://apify.com/get_anything) platform — no 
 
 ## 🔎 LLM-ready data & scraping infrastructure
 - [SERP Scraper](https://apify.com/get_anything/serp-scraper) — Google, Bing & DuckDuckGo search results for RAG/LLM · [source](https://github.com/GetAnything-1/serp-scraper)
-- [Web Unblocker](https://apify.com/get_anything/web-unblocker) — fetch any URL past Cloudflare / DataDome / PerimeterX / Akamai · [source](https://github.com/GetAnything-1/web-unblocker)
+- [Web Unblocker](https://apify.com/get_anything/web-unblocker) — fetch any URL past Cloudflare / DataDome / PerimeterX / Akamai
 - [LLM Web Scraper](https://apify.com/get_anything/llm-web-scraper) — any URL → clean Markdown for RAG
 - [AI Web Search Scraper](https://apify.com/get_anything/ai-web-search-scraper) — search + page content for LLM grounding
 - [GitHub Repo Scraper](https://apify.com/get_anything/github-repo-scraper) — repo → LLM-ready text
 - [YouTube Transcript Scraper](https://apify.com/get_anything/youtube-transcript-scraper) — video → transcript for your AI
 
 ## 🎯 Lead generation
-- [Contact & Email Extractor](https://apify.com/get_anything/contact-extractor) — emails, phones & socials from any site · [source](https://github.com/GetAnything-1/contact-extractor)
-- [Google Maps Leads Scraper](https://apify.com/get_anything/google-maps-leads) — businesses with phone, website & email · [source](https://github.com/GetAnything-1/google-maps-leads)
+- [Contact & Email Extractor](https://apify.com/get_anything/contact-extractor) — emails, phones & socials from any site
+- [Google Maps Leads Scraper](https://apify.com/get_anything/google-maps-leads) — businesses with phone, website & email
 
 ## 💼 Jobs (GCC)
 - [GCC Jobs Aggregator](https://apify.com/get_anything/gcc-jobs-aggregator) — Bayt, GulfTalent & NaukriGulf in one run
@@ -31,4 +31,4 @@ All of these run on the [Apify](https://apify.com/get_anything) platform — no 
 
 ---
 
-🛠️ Mostly Python + Playwright/Camoufox · 📍 Dubai, UAE · 🔗 [All my tools on Apify »](https://apify.com/get_anything)
+🛠️ Mostly Python + Playwright/Camoufox · 📍 Dubai, UAE · 🌐 [getanything-site.vercel.app](https://getanything-site.vercel.app) · 🔗 [All my tools on Apify »](https://apify.com/get_anything)
