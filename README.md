@@ -29,6 +29,8 @@ All of these run on the [Apify](https://apify.com/get_anything) platform — no 
 ## 🌦️ Sports, weather & media
 - [Sports Scores](https://apify.com/get_anything/sports-scores-scraper) · [Sports Standings](https://apify.com/get_anything/sports-standings-scraper) · [Weather Forecast](https://apify.com/get_anything/weather-forecast-scraper) · [Air Quality](https://apify.com/get_anything/air-quality-scraper) · [Apple Podcasts](https://apify.com/get_anything/apple-podcasts-scraper) · [TV Shows](https://apify.com/get_anything/tv-shows-scraper)
 
+📬 **Custom scrapers & support:** [get.anything2026@gmail.com](mailto:get.anything2026@gmail.com) · [LinkedIn](https://ae.linkedin.com/in/get-anything-341a34447)
+
 ---
 
 🛠️ Mostly Python + Playwright/Camoufox · 📍 Dubai, UAE · 🌐 [getanything-site.vercel.app](https://getanything-site.vercel.app) · 🔗 [All my tools on Apify »](https://apify.com/get_anything)
